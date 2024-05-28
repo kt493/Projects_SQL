@@ -1,8 +1,8 @@
-** Projects_SQL - Summary **
+** Projects_SQL - Summary **  
 
-#Paintings Data Analysis
-Type: Analysis in Q&A Format
-This project involves SQL-based analysis of a paintings dataset to answer various questions about artists, museums, and sales data. Key   analyses include:
+#Paintings Data Analysis  
+Type: Analysis in Q&A Format  
+This project involves SQL-based analysis of a paintings dataset to answer various questions about artists, museums, and sales data. Key   analyses include:  
 
 Artists and Museums: Full names of artists and names of museums displaying their works.
 Artist Work Count: Number of works by each artist, ordered by count.
